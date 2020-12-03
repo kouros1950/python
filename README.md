@@ -1,2 +1,2 @@
 # python
-python scripts to learn
+python scripts to learn go here!
